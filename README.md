@@ -1,4 +1,4 @@
-# Code-Assignement-berkan-ozel
+# Fibonacci Game
 
 Fibonacci Game Backend
 
